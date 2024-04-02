@@ -36,6 +36,9 @@ Here is a list of features and resources used in the provided Java program:
 
 
 **Screenshots:**
-(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/1.jpg)
-(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/2.jpg)
-(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/3.jpg)
+
+![Image 1](https://github.com/albertoasensiom/URLGenerator.java/raw/main/Screenshots/1.jpg)
+
+![Image 2](https://github.com/albertoasensiom/URLGenerator.java/raw/main/Screenshots/2.jpg)
+
+![Image 3](https://github.com/albertoasensiom/URLGenerator.java/raw/main/Screenshots/3.jpg)
