@@ -34,3 +34,8 @@ Here is a list of features and resources used in the provided Java program:
 5. Conditional statements and loops for decision-making and iteration.
 6. Use of arrays to store and manage data efficiently.
 
+
+**Screenshots:**
+(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/1.jpg)
+(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/2.jpg)
+(https://github.com/albertoasensiom/URLGenerator.java/blob/main/Screenshots/3.jpg)
